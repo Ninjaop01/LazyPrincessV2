@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'CinemixCentral')
 API_ID = int(environ.get('API_ID', '22422986'))
 API_HASH = environ.get('API_HASH', '40e8e3d24aa1fd9274fca4ef8de2e417')
-BOT_TOKEN = environ.get('BOT_TOKEN', "8050673503:AAG6mHftu37JBAUjMHhfVvFp5hIvxxymQN4")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7793813106:AAFV_dx98XXMbGjocsLVnYlM3DhlAmrgTeU")
 
 #Port
 PORT = environ.get("PORT", "8080")
